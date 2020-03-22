@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Persuasion"
+categories: french, poetry
+---
+
+J'ai été absent quelques jours, je me suis remis à coder, pour me plonger dans les eaux obscures noyées de chiffres et de symboles n'ayant pour la plupart des humains aucune logique ni aucune raison d'être. La logique pure, celle qui échappe à nos ambitions mortelles, celle qui fait que nos vies sont ce qu'elles sont, qui sous-tend ce monde déviant et fou, est la trame d'un univers souterrain, une bizarrerie cosmique résultant de forces à la fois quantiques et dantesques. Cette logique, pure et austère, froide de la douleur de l'acier, n'est que le premier pas pour nous rendre compte de l'existence d'un autre noyau de réalité, encore plus profond. Cette logique émerge de quelque chose de plus gigantesque encore, quelque part entre les nombres de Graham et les gluons qui émancipent la matière, percutée par des milliers de soleils étincelants sous des atmosphères hadroniques. 
+
+Il me faut garder le cap, continuer à écrire pour peut-être un jour revenir en arrière et me poser la question de savoir ce qu'il s'est passé, à quel point mon cerveau embrumé est arrivé à l'aube de conclusions éthérées et férales. Certains jours, cela est plus difficile que d'autres, et le monde semble s'étirer sur un chemin lointain qu'il me semble damné de suivre. Ou irons-nous ? Les histoires domotiques de nos contemporains sont-elles tellement absconses qu'il est impossible de voir le lien entre elles un vulgaire agenda ? En attendant, je code, je me fracasse les neurones sur des problèmes enclavés, des niches et des boucles, des conditions et des horizons. Je rêve de serpents et de joyaux, d'anacondas et de saphirs. Le monde tourne sur son piédestal, fier clou d'une collection d'une démiurge potentat.
+
+Allez savoir. Peut-être me regarde-t-il en ce moment de folie douce (je me souviens des neiges alpines...). Il me faut garder le cap, partir plus avant à la découverte de ces séquences de lettres et de chiffres, de symboles et d'algorithmes, pour un jour pouvoir dire que j'ai pu laisser une trace. Dire que j'ai laissé des classes, des objets perdus dans un simple fichier texte au milieu de millions d'autres. Mais ces objets sont autant d’œuvres d'art à la frontière en science et création, il s'agit d'un langage délivré de toute émotion, de toute passion, pourtant capable d'accoucher de grandioses desseins. Il me faut continuer à apprendre, pour, à un moment béni, pouvoir offrir quelque chose au monde, produit incestueux de ces mondes carbonés et siliciques.
+
+Il me faut écrire, encore et encore.

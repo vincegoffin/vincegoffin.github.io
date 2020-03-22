@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Insomnies"
+categories: french, poetry
+---
+
+Les bois s'élancent le long des nuits claires, les sentiers se suivant comme un ruban lové autour du monde. Tous, toujours, mènent à la Rivière. Dans l'autre sens, il n'y a que le néant de cette forêt sombre et infinie. Il n'existe pas de fin à ces sentiers, excepté les quelques huttes des seules pauvres hères qui ont décidé de se faire une vie entre les pins et les chênes. Au loin, sur l'horizon inaccessible, plane l'ombre de pics enneigés, dents rocheuses d'un monde essayant de croquer un morceau de ciel. Le ciel est rarement visible au travers des feuilles, et les seuls bruits sont ceux des hardes et des meutes hurlant sous la lune. 
+
+Quelques ruisseaux mènent parfois à la Rivière, traversant des lieues de forêts ombragées avant d'enfin l'atteindre. Il n'existe pas d'issue, la forêt elle-même est un labyrinthe duquel il est impossible de s'échapper. Les sentiers ne s'arrêtent jamais, et si des hommes anciens ont bâtis des routes, il ne reste d'elles que quelques moellons déchaussés de leur logement d'humus. Des hommes autrefois ont essayé de cartographier cette terre, mais jamais ne sont revenus. Les pics restent à jamais inaccessibles. Seule serpente la Rivière et son flot paresseux.
+
+Elle prend sa source en dehors de ce dédale végétal. Elle traverse des contrées polaires et froides, des montagnes en gorges abyssales et des plaines ondulant du blé de la fin de l'été. La Rivière n'est pas de ce monde de verdure et d'humus, ni même du monde des pics et de la roche. Elle n'appartient pas aux plaines ni aux déserts. Elle n'appartient qu'à elle même. Et, pour ceux qui savent lire ses courants traîtres et sont assez courageux pour braver les cataractes de brume et les canyons vertigineux, elle peut offrir ce qu'ils ne pouvaient espérer en suivant les sentiers s'engageant dans le labyrinthe arborescent. 
+
+Elle est le lien entre les mondes, le pont qui relie les terres de cette étrange étendue infinie. Sans elle, les hommes se perdent dans les montagnes éternelles, ou errent jusqu'à la folie dans les désert arides. Elle ne peut être cartographiée, car son cours n'est pas fixe, ne vous emmènera jamais précisément où vous voulez aller. La seule certitude, c'est qu'en suivant ses méandres ensablés, il est possible de revenir où vous étiez, ou de partir où vous n'êtes jamais allé.
+
+La Rivière n'appartient qu'à elle-même...

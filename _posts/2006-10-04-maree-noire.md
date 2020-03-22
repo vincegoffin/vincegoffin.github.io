@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Marée Noire"
+categories: french, poetry
+---
+
+Cela fait  maintenant dix ans… Dix ans depuis ce que les journalistes (mais au fait, qu’est-ce que c’est, un journaliste ? Je ne sais même plus…) avaient appelé « La Marée Noire »… Dix ans jour pour jour… Nous sommes le 8 octobre 2016… J’ai 26 ans, 9 mois, et 6 jours… Et je suis moi… Et « ils » me le reprochent… « Ils », ce sont eux, la Marée Noire… Je ne suis rien d’autre qu’un poète, qui a commis une seule erreur : écrire… Du coups, « ils » me recherchent, me traquent… Ceci est mon testament… Le Net existe toujours, mais les règles ont changé… J’ai fait une erreur… Une bête erreur… « Ils » ont réussi à remonter jusqu’à moi… « Ils » savent qui je suis, « ils » savent tout… Tout… Mais il faut que je commence depuis le début…
+
+« C’était une belle journée d’automne, ce 8 octobre… Des élections dans mon pays… Démocratique… Les gens se sont rendus aux urnes, pour voter, comme tout le monde fait aux élections… Je n’avais que seize ans, à l’époque, et, à vrai dire, je ne pensais pas qu’un tel désastre puisse arriver… « Ils » se sont présentés aux élections, et, au décompte, nous avons regardé, impuissants, leur montée en puissance… D’abord « ils » se sont imposés aux communales, puis au parlement l’année d’après, puis… Puis… « Ils » se sont emparés du Parlement… La Constitution a été bafouée, violée, et le pays s’est lentement enlisé dans la dictature… Ils ne reste plus beaucoup de démocraties, ici, en Europe… La France est tombée aux présidentielles qui ont suivies… L’Allemagne, pareil… L’Angleterre résiste encore, mais elle sombre lentement… L’Espagne est revenue sous le régime franquiste… « Ils » ont tout balayé… Une Marée Noire… Absolue… Et moi, je suis piégé au milieu de tout cela, j’écris ceci en testament aux générations future, avec tout ce que j’ai écrit, et qu’ « ils » m’ont laissé , pour qu’ils n’oublient pas qu’il fût un temps où la liberté existait…
