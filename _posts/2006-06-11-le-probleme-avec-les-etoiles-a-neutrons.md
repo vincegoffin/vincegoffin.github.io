@@ -2,6 +2,7 @@
 layout: post
 title: "Le problème avec les étoiles à neutrons"
 date: 2006-06-11
+category: french
 ---
 Le problème, avec les étoiles à neutrons, c'est qu'on ne les voit pas. C'est joli, hein, ça balance un flash radio toutes les nanosecondes, ou presque, ça fait trois fois la masse du soleil pour un diamètre n'excédant pas celui des îles Tristan da Cunha (c'est ici). Si on a de la chance et qu'on se trouve dans l'axe d'émission du pulsar, alors oui, on la verra (et ça pourrait bien être la dernière chose qu'on voit dans une vie, mais bon...). Ça risque aussi de tourner au vinaigre en mode trou noir, mais ça... Ben c'est une autre histoire (vous remarquerez que le trou noir on le verra pas non plus).  
   

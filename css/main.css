@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Montserrat', 'Open Sans', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,12 +21,13 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Montserrat', 'Open Sans', 'Sans-Serif';
 }
 p {
-    font-size: 1.5em;
+    font-size: 1.4em;
     line-height: 1.4em;
     color: #333;
+    font-family: 'Montserrat', 'Open Sans', 'Sans-Serif';
 }
 footer {
     border-top: 1px solid #d5d5d5;
@@ -40,4 +41,5 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+    font-family: 'Montserrat', 'Open Sans', 'Sans-Serif';
 }
