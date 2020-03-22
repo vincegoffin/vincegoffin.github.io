@@ -1,2 +1,3 @@
 name: Vincent Goffin, data geek
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
