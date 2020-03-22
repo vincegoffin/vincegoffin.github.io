@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Posons le contexte: j'ai fait des études scientifiques (ingénierie pour être exact), et au cours des années, je suis tombé sur des centaines de lettres représentant tout autant de grandeurs physiques. Ou mathématiques. Ou chimiques. Ou antiques, amériques, voire quelquefois antinomiques aussi. L'idée m'est venue d'en faire une compilation. La voici. Ou du moins un début, parce qu'il y a beaucoup à en dire."
+title: "Le problème des lettres utilisées en sciences"
 categories: french, poetry
 ---
-  
+Posons le contexte: j'ai fait des études scientifiques (ingénierie pour être exact), et au cours des années, je suis tombé sur des centaines de lettres représentant tout autant de grandeurs physiques. Ou mathématiques. Ou chimiques. Ou antiques, amériques, voire quelquefois antinomiques aussi. L'idée m'est venue d'en faire une compilation. La voici. Ou du moins un début, parce qu'il y a beaucoup à en dire.
+
 Premièrement, commençons par les fondements de la notation symbolique. Mais si, vous vous souvenez, les millions de fois où votre professeur de mathématiques vous a demandé d'écrire a = a. Donc, "a", check. Mais imaginez, "a" peut également correspondre à une accélération ou un ampérage. Merci Newton et Ampère (un français, encore...). "a,b,c" sont les lettres les plus utilisées au début, peut-être avec "d" de temps en temps. b correspond à... En minuscule, à rien en fait. Bon, y a une lettre non utilisée si quelqu'un la veut, je la revend, pas cher. Ah, si, la base d'un triangle, mais si, comme a = b*h/2. Revoilà un "a", tiens, également.   
   
 Comprenez qu'on s'y perde un peu. "c", c'est la vitesse de la lumière. "d" peut correspondre soit à une différentielle exacte ou à la densité d'un corps (l'huile qui flotte sur l'eau, vous vous souvenez ?). "e" est la constante exponentielle ou une énergie, "f" indique une fonction, mais "g" également ! Cela dit, "g" est aussi la constante gravitationnelle terrestre (9,81). Ou encore l’abréviation de l'unité de masse, le gramme. "h" indique une hauteur, comme vu précédemment. "i" est une intensité de courant. "j", on y reviendra après. "k" peut désigner une constante quelconque. "l" est une longueur, voire une largeur selon le cas. "m", c'est une masse ou une unité de longueur, justement.   
