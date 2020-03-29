@@ -1,4 +1,5 @@
 ---
+permalink: "/cv"
 layout: default
 title: My resume
 ---

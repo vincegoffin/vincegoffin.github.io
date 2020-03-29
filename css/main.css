@@ -2,6 +2,7 @@
 body {
     margin: 60px auto;
     width: 70%;
+    font-family:'Montserrat', 'Open Sans', 'Sans-Serif';
 }
 nav ul, footer ul {
     font-family:'Montserrat', 'Open Sans', 'Sans-Serif';
@@ -13,7 +14,7 @@ nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+a { 
     text-decoration: none;
     color: #999;
 }

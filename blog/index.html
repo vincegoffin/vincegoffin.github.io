@@ -3,7 +3,7 @@ layout: default
 title: Table of Contents
 ---
 	<h1>{{ page.title }}</h1>
-	<h2>(French) Arborescences — Summer 2016</h2>
+	<h2 id="arborescences">(French) Arborescences — Summer 2016</h2>
 	<ul class="posts">
 
 	  {% for post in site.posts %}
@@ -12,9 +12,8 @@ title: Table of Contents
 		{% endif %}
 	  {% endfor %}
 	</ul>
-	<h2>(French) Poetry — 2004 - 2015</h2>
+	<h2 id="old_poetry_stuff">(French) Poetry — 2004 - 2015</h2>
 	<ul class="posts">
-
 	  {% for post in site.posts %}
 		{% if post.categories contains "poetry" %}
 			<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
