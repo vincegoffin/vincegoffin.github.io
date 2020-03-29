@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Le problème des lettres utilisées en sciences"
-categories: french, poetry
+categories: french, arborescences
 ---
 Posons le contexte: j'ai fait des études scientifiques (ingénierie pour être exact), et au cours des années, je suis tombé sur des centaines de lettres représentant tout autant de grandeurs physiques. Ou mathématiques. Ou chimiques. Ou antiques, amériques, voire quelquefois antinomiques aussi. L'idée m'est venue d'en faire une compilation. La voici. Ou du moins un début, parce qu'il y a beaucoup à en dire.
 

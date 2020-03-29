@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Perfection"
-categories: french, poetry
+categories: french, arborescences
 ---
 
 J'ai des souvenirs de perfection. Le premier est une citation d'un livre, dont je n'arrive plus à me rappeler le nom. Elle dit que la perfection n'existe et ne dure que dans l'instant, le moment présent. La seconde qui suit, elle s'est envolée, et seul reste le souvenir de ce moment parfait. Elle est de facto inatteignable et ne peut se trouver que par un hasard monstrueux de circonstances. Dans mon cas, elle s'est souvent trouvée dans des moments liés au lever du soleil. L'instant parfait, c'est de regarder le soleil se lever dans le froid de l'aurore, une tasse de thé noir à la main. 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Insomnies"
-categories: french, poetry
+categories: french, arborescences
 ---
 
 Les bois s'élancent le long des nuits claires, les sentiers se suivant comme un ruban lové autour du monde. Tous, toujours, mènent à la Rivière. Dans l'autre sens, il n'y a que le néant de cette forêt sombre et infinie. Il n'existe pas de fin à ces sentiers, excepté les quelques huttes des seules pauvres hères qui ont décidé de se faire une vie entre les pins et les chênes. Au loin, sur l'horizon inaccessible, plane l'ombre de pics enneigés, dents rocheuses d'un monde essayant de croquer un morceau de ciel. Le ciel est rarement visible au travers des feuilles, et les seuls bruits sont ceux des hardes et des meutes hurlant sous la lune. 

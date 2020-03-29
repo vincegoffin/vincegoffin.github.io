@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Poésie Twiterrifiée"
-categories: french, poetry
+categories: french, arborescences
 ---
   
 Par mal de verbes se conjuguent dans ce mot, "twiterrifier". On y voit des accents terrifiants, ainsi qu'une possibilité de tarifier les tweets. Imaginer... Un tweet de ma part, 50€. Ah, mais, en fait, me direz-vous, n'y serait-on pas déjà ? Certaines marques connues ne paient déjà pas certains twitterrers (twit-terreurs? twitt-erreurs? Comment démêler?) pour l'opportunité (l'importunité?) d'un tweet ? Et alors que l'oiseau gazouille et que le Maestro s'emballe à jouer l'oiseau rebelle, sont-ce de bonnes questions à se poser ? Mais qu'importe, ici je vous parle de la difficulté de poétiser en 140 caractères.  

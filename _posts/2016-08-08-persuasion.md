@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Persuasion"
-categories: french, poetry
+categories: french, arborescences
 ---
 
 J'ai été absent quelques jours, je me suis remis à coder, pour me plonger dans les eaux obscures noyées de chiffres et de symboles n'ayant pour la plupart des humains aucune logique ni aucune raison d'être. La logique pure, celle qui échappe à nos ambitions mortelles, celle qui fait que nos vies sont ce qu'elles sont, qui sous-tend ce monde déviant et fou, est la trame d'un univers souterrain, une bizarrerie cosmique résultant de forces à la fois quantiques et dantesques. Cette logique, pure et austère, froide de la douleur de l'acier, n'est que le premier pas pour nous rendre compte de l'existence d'un autre noyau de réalité, encore plus profond. Cette logique émerge de quelque chose de plus gigantesque encore, quelque part entre les nombres de Graham et les gluons qui émancipent la matière, percutée par des milliers de soleils étincelants sous des atmosphères hadroniques. 

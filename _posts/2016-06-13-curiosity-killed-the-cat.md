@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Curiosity killed the cat"
-categories: french, poetry
+categories: french, arborescences
 ---
 
 *** Disclaimer: aucun animal n'a été maltraité durant l'écriture de cette chronique ***  

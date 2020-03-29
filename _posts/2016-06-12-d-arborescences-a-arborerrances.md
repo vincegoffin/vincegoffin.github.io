@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "D'arborescences à arborerrances..."
-categories: french, poetry
+categories: french, arborescences
 ---
   
 D'abord, il m'a fallu trouver un nom pour ce blog. Ce fût compliqué. Je suis parti d'arborescence, pour raisons de... Ben, parce que l'idée était de partir dans tous les sens, une espèce de sorte de patchwork incomplet et bizarroïde, si vous voulez. Si vous ne voulez pas, cela dit, c'est le même prix. Donc, je cherche arborescence et synonymes, sur sensagent.com (merde, ma première pub, et en plus, non rémunérée...). Arborescence, donc, ne donne rien comme synonyme et analogie. Bon. Next. Divagations, alors ?  
