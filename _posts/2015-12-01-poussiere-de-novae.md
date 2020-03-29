@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Poussiere de Novae"
-categories: french, arborescences
+categories: french, poetry
 ---
   
 Il existe une danse dans l'espace profond  
